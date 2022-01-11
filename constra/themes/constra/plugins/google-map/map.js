@@ -94,7 +94,7 @@ function initialize() {
       "featureType": "road",
       "elementType": "geometry",
       "stylers": [{
-          "hue": "#ffb600"
+          "hue": "#a9a13f"
         },
         {
           "saturation": "100"
@@ -111,7 +111,7 @@ function initialize() {
       "featureType": "road",
       "elementType": "geometry.stroke",
       "stylers": [{
-          "color": "#ffb600"
+          "color": "#a9a13f"
         },
         {
           "saturation": "0"
